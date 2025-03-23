@@ -21,4 +21,32 @@
 
 ---
 
-**LICENSE 详细信息**：[LICENSE.md](LICENSE.md) 或 [CC官方文本](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+**LICENCE 详细信息**：[LICENCE.md](LICENCE.md) 或 [CC官方文本](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+
+---
+
+
+# Argon Sound (Non-Commercial Use)
+
+**Author**: mifongjvav  
+**Original Sound Effects Authors**: ppy and the osu! development team (Source: [osu-resources repository](https://github.com/ppy/osu-resources))  
+**License**: CC BY-NC 4.0 ([Full License](https://creativecommons.org/licenses/by-nc/4.0/))  
+
+---
+
+## **Modifications**  
+- Converted original WAV/MP3 files to OGG format for compatibility with **Minecraft Bedrock Edition**.  
+
+---
+
+## **Terms of Use**  
+1. **Attribution Requirement**  
+   You must credit the original authors (ppy and the osu! development team) and link to the [source repository](https://github.com/ppy/osu-resources) when using or modifying this sound pack.  
+2. **Non-Commercial Use**  
+   **Commercial use** (including selling, advertising, paid livestreams, etc.) is strictly prohibited.  
+3. **License Inheritance**  
+   Derivative works based on this sound pack must be released under the same license (CC BY-NC 4.0) and retain full attribution.  
+
+---
+
+**Detailed LICENSE Information**: [LICENSE.md](LICENSE.md) or [CC Legal Text](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
